@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @junyanee
-- 👀 I’m interested in JAVAA Programming, Databases, Deep Learning etc..
+- 👀 I’m interested in JAVA Programming, Databases, Deep Learning etc..
 - 🌱 I’m currently learning C, JAVA, Android, Python, SQL etc..
 - 📫 Contact grssa@naver.com
 
